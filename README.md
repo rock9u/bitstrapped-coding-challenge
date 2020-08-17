@@ -21,3 +21,7 @@
 ## Credit
 
 - Used endpoint at [Rates API](https://ratesapi.io/documentation/)
+
+## Demo
+
+- [:moneybag:](http://3.17.67.81:3000/)
