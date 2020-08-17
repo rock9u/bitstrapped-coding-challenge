@@ -2,8 +2,15 @@
 
 ## Setup
 
+### Npm
+
 - `npm i` to install
 - `npm run start` to start locally at port `3000` by default
+
+### Docker
+
+- `docker build -t ALIAS .`
+- `docker run -dp 3000:3000 ALIAS`
 
 ## Endpoint
 
